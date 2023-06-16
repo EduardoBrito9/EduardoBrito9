@@ -2,6 +2,7 @@
 
 🌎 Brasil. </br>
 📚 Aprendendo Javascript / Front End Development </br>
+•💻 Voluntário na função de Desenvolvedor Front-End na Instituto Berna Almeida.
 
  <div>
   <a href="https://github.com/rafaballerini">
