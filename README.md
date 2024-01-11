@@ -1,7 +1,7 @@
 ## E ai! Eu sou o Eduardo Brito!
 
 🌎 Brasil. </br>
-📚 Javascript / Front End Development </br>
+React / Front End Development </br>
 💻 Voluntário na função de Desenvolvedor Front-End na Instituto Berna Almeida.
 
  <div>
