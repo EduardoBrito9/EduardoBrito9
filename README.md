@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">A passionate FrontEnd developer from Brazil</h3>
+<h1 align="center">Eai 👋, eu sou o Eduardo</h1>
+<h3 align="center">Um apaixonado desenvolvedor FrontEnd do Brasil</h3>
 
-- 💬 Ask me about **React, Next.js**
+- 💬 Me pergunte sobre **React, TypeScript**
 
-- 📫 How to reach me **eduardobritodev@gmail.com**
+- 📫 Contato **eduardobritodev@gmail.com**
 
 [![Sokheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoBrito9&show_icons=true&theme=radical)](https://github.com/EduardoBrito9/github-readme-stats)
