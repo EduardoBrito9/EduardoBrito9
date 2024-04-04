@@ -1,5 +1,5 @@
 <h1 align="center">Eai 👋, eu sou o Eduardo</h1>
-<h3 align="center">Um apaixonado desenvolvedor Frontend do Brasil</h3>
+<h3 align="center">Um apaixonado desenvolvedor do Brasil</h3>
 
 - 💬 Me pergunte sobre **React, TypeScript**
 
